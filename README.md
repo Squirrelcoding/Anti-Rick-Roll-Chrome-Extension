@@ -26,5 +26,9 @@ You can easily disable the chrome extension.
 1. Im under-age
 2. I AM NOT GOING TO PAY 5$ TO SIGN UP TO BE A CHROME WEB STORE DEVELOPER!
 
+# Installing
+
+Go to our [website](https://www.softsquirrel.tk/projects.html#rickRollExtension) to download, click "download extension". After that go to `chrome://extensions`. Go to File explorer or your file browser, drag the file to `chrome://extensions` and your done!
+
 # Conclusion
 You can report feedback and bugs on again, the [github](https://github.com/Squirrelcoding/Anti-Rick-Roll-Chrome-Extension/issues).
