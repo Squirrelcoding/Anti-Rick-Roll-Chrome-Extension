@@ -28,7 +28,7 @@ You can easily disable the chrome extension.
 
 # Installing
 
-Go to our [website](https://www.softsquirrel.tk/projects.html#rickRollExtension) to download, click "download extension". After that go to `chrome://extensions`. Go to File explorer or your file browser, drag the file to `chrome://extensions` and your done!
+Go to our [website](https://www.softsquirrel.tk/projects.html#rickRollExtension) to download, click "download extension". After that go to `chrome://extensions`. Go to File explorer or your file browser, drag the file to `chrome://extensions` and your done! [More detailed tutorial](https://www.howtogeek.com/120743/how-to-install-extensions-from-outside-the-chrome-web-store/) on how to install extensions from third party websites.
 
 # Conclusion
 You can report feedback and bugs on again, the [github](https://github.com/Squirrelcoding/Anti-Rick-Roll-Chrome-Extension/issues).
