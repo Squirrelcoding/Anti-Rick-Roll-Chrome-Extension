@@ -8,6 +8,9 @@ So, all it does is redirect you to a page where it tells you that you were saved
 ## Whats different?
 Well, you see: You can add and remove blocked URL's! Many other of the rick rolls **dont** support adding and removing blocked URLS! You can even see them within the extension page too! 
 
+# **Privacy Notice!**
+This extension collects tab data (such as the tab that you are on) in order to check that its a rick roll URL! By using this extension, you know that your tab data is being used!
+
 # Q & A
 
 ### Whats up with the errors when I open up the console?
