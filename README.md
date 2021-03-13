@@ -22,9 +22,9 @@ You can report them on the [github](https://github.com/Squirrelcoding/Anti-Rick-
 ### I just want to listen to "never gonna give you up"!
 You can easily disable the chrome extension.
 
-### Why dont you publish the extension?
+### Why dont you publish the extension to the chrome web store?
 1. Im under-age
-2. I AM NOT GOING TO PAY 5$
+2. I AM NOT GOING TO PAY 5$ TO SIGN UP TO BE A CHROME WEB STORE DEVELOPER!
 
 # Conclusion
 You can report feedback and bugs on again, the [github](https://github.com/Squirrelcoding/Anti-Rick-Roll-Chrome-Extension/issues).
