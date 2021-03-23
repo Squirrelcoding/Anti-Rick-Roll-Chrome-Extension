@@ -29,7 +29,18 @@ I cant.
 
 # Installing
 
-Go to our [website](https://www.softsquirrel.tk/projects.html#rickRollExtension) to download, click "download extension". After that go to `chrome://extensions`. Go to File explorer or your file browser, drag the file to `chrome://extensions` and your done! [More detailed tutorial](https://www.howtogeek.com/120743/how-to-install-extensions-from-outside-the-chrome-web-store/) on how to install extensions from third party websites.
+## Step 1
+
+[Download](https://www.mediafire.com/folder/tjjeblvazz8z9/Anti_rick_roll_extension) the folder from the mediafire link.
+
+## Step 2
+
+Go to `chrome://extensions` and go into developer mode (top left corner):
+![devModeIMG](https://i.ibb.co/Tbt9mgd/2021-03-22-4.png)
+
+## Step 3
+
+Click `load unpacked`, drag the folder, and your done!
 
 # Conclusion
 You can report feedback and bugs on again, the [github](https://github.com/Squirrelcoding/Anti-Rick-Roll-Chrome-Extension/issues).
